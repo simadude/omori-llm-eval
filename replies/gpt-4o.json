@@ -1,0 +1,445 @@
+{
+    "model": "openai/gpt-4o-2024-11-20",
+    "sections": [
+        {
+            "section_name": "EASY",
+            "questions": [
+                {
+                    "question": "Who is the main creator behind the game OMORI?",
+                    "expected_answer": "OMOCAT.",
+                    "reply": "The main creator behind the game **OMORI** is **Omocat**. Omocat is an artist, writer, and game developer who initially conceptualized OMORI as a webcomic before turning it into a video game. The game was developed by Omocat and their team, with Omocat serving as the director, writer, and lead artist.",
+                    "correct": null
+                },
+                {
+                    "question": "When was OMORI released to the public?",
+                    "expected_answer": "In December 2020.",
+                    "reply": "OMORI was officially released to the public on **December 25, 2020** for PC via Steam.",
+                    "correct": null
+                },
+                {
+                    "question": "Who are the main composers for the songs in OMORI?",
+                    "expected_answer": "Bo En, Jami Carignan, Slime Girls (at least two of them must be mentioned)",
+                    "reply": "The main composers for the songs in *OMORI* are **Pedro Silva** (also known as Slime Girls) and **Jami Lynne**. They worked together to create the game's memorable and atmospheric soundtrack, which plays a significant role in setting the tone and enhancing the emotional depth of the game. Additionally, some tracks were contributed by other artists, but Pedro Silva and Jami Lynne are the primary composers.",
+                    "correct": null
+                },
+                {
+                    "question": "Who do you play as in the game OMORI?",
+                    "expected_answer": "As OMORI/SUNNY",
+                    "reply": "In the game **OMORI**, you primarily play as two characters: **Omori** and **Sunny**. \n\n- **Omori** is the character you control in the dream world, known as the \"Headspace.\" He is a monochrome version of Sunny and represents his inner thoughts and emotions.\n- **Sunny** is the character you control in the real world. He is a quiet, reclusive boy who is preparing to move away from his hometown in just a few days.\n\nThe game alternates between these two perspectives, with the story unfolding in both the dream world and the real world, revealing the deeper emotional and psychological struggles of the protagonist.",
+                    "correct": null
+                },
+                {
+                    "question": "What\u2019s the name of the comic/blog that OMOCAT was making on tumblr before starting to work on OMORI?",
+                    "expected_answer": "OMORIBOY",
+                    "reply": "Before working on *OMORI*, OMOCAT created a webcomic series called **\"OMORI's Blog\"** on Tumblr. This blog introduced the character OMORI and served as a precursor to the game, featuring surreal and emotional themes that later became central to the *OMORI* game. It was a mix of comics, illustrations, and short writings that helped establish the tone and aesthetic of the project.",
+                    "correct": null
+                },
+                {
+                    "question": "Is there a blue whale in the game OMORI?",
+                    "expected_answer": "Yes. (The name of the whale is HUMPHREY)",
+                    "reply": "No, there is no blue whale in the game *OMORI*. However, there is a character named Humphrey, who is a massive whale-like creature. Humphrey plays a significant role in the game and serves as both a location and a character. If you're thinking of a large aquatic creature, it might be Humphrey you're referring to!",
+                    "correct": null
+                },
+                {
+                    "question": "What instrument did MARI use to play in OMORI?",
+                    "expected_answer": "A piano.",
+                    "reply": "In *OMORI*, MARI played the **piano**. She was known for her musical talent and often played alongside SUNNY, who played the violin. Their duets were an important part of the story and their bond.",
+                    "correct": null
+                },
+                {
+                    "question": "What instrument did SUNNY use to play in OMORI?",
+                    "expected_answer": "A violin.",
+                    "reply": "In **OMORI**, SUNNY plays the **violin**. It is a significant element in the story, symbolizing his connection to his past, his emotions, and his relationships, particularly with MARI. The violin plays a key role in the game's narrative and themes.",
+                    "correct": null
+                },
+                {
+                    "question": "What is the name of KEL and HERO\u2019s pet dog in the game OMORI?",
+                    "expected_answer": "Hector.",
+                    "reply": "In the game *OMORI*, KEL and HERO's pet dog is named **Hector**. However, Hector is not a dog but rather a pet rock that KEL carries around with him. If you're referring to an actual dog, there isn't one mentioned in the game. Let me know if you meant something else!",
+                    "correct": null
+                },
+                {
+                    "question": "What is the name of the imaginary world SUNNY has created in his dreams in the game OMORI?",
+                    "expected_answer": "Headspace.",
+                    "reply": "The name of the imaginary world SUNNY has created in his dreams in the game **OMORI** is **Headspace**. It serves as a colorful and surreal realm where SUNNY interacts with his friends and processes his emotions and memories.",
+                    "correct": null
+                },
+                {
+                    "question": "How many friends were there in the friend group before the accident in the game OMORI?",
+                    "expected_answer": "6 (SUNNY, BASIL, KEL, HERO, AUBREY, MARI)",
+                    "reply": "In the game **OMORI**, the friend group before the accident consisted of **five friends**: Sunny (the player character), Mari (Sunny's older sister), Kel, Hero, Basil, and Aubrey. These six characters were very close, but the core \"friend group\" typically refers to the younger five (Sunny, Kel, Hero, Basil, and Aubrey), as Mari was more of a mentor and older sibling figure. However, if you're asking about the group dynamic before the accident, all six were closely connected.",
+                    "correct": null
+                },
+                {
+                    "question": "What is the color of AUBREY\u2019s hair in the Real World during the gameplay of OMORI?",
+                    "expected_answer": "Pink.",
+                    "reply": "In the Real World during the gameplay of **OMORI**, Aubrey's hair is **pink**. This is a notable change from her appearance in the Dream World, where her hair is purple. Her pink hair in the Real World reflects her rebellious and bold personality.",
+                    "correct": null
+                },
+                {
+                    "question": "What is the name of a white void where the main character spends his time in the game OMORI?",
+                    "expected_answer": "White Space.",
+                    "reply": "In the game **OMORI**, the white void where the main character, OMORI, spends his time is called **WHITE SPACE**. It serves as a central and recurring location in the game, representing a place of isolation and introspection.",
+                    "correct": null
+                },
+                {
+                    "question": "What weapon does the main character always carry with him in the game OMORI?",
+                    "expected_answer": "A knife.",
+                    "reply": "In the game **OMORI**, the main character, Omori, always carries a **knife** as his weapon. This is consistent throughout the game and is symbolic of his character and the themes of the story.",
+                    "correct": null
+                },
+                {
+                    "question": "What is the name of a dark figure with one eye that follows after SUNNY in the game OMORI?",
+                    "expected_answer": "SOMETHING.",
+                    "reply": "The dark figure with one eye that follows SUNNY in *OMORI* is known as **SOMETHING**. It represents SUNNY's deep-seated guilt and trauma stemming from a pivotal event in his past. SOMETHING appears in various forms throughout the game, often manifesting as a shadowy, unsettling presence with a single eye, symbolizing the weight of SUNNY's suppressed memories and emotions.",
+                    "correct": null
+                },
+                {
+                    "question": "What is the currency in the dream world in the game OMORI?",
+                    "expected_answer": "Clams.",
+                    "reply": "In the dream world of *OMORI*, the currency is called **Clams**. Players use Clams to purchase items, equipment, and other necessities from various shops throughout the dream world.",
+                    "correct": null
+                }
+            ]
+        },
+        {
+            "section_name": "NORMAL",
+            "questions": [
+                {
+                    "question": "How old is OMORI in the dream world of the game OMORI?",
+                    "expected_answer": "Approximately 12 years old.",
+                    "reply": "In the dream world of *OMORI*, OMORI's age is not explicitly stated. However, he appears to be the same age as SUNNY, his real-world counterpart, who is 16 years old during the events of the game. OMORI's appearance and behavior in the dream world reflect a younger, idealized version of SUNNY, which could suggest he represents a part of SUNNY's childhood.",
+                    "correct": null
+                },
+                {
+                    "question": "How old is KEL in the dream world of the game OMORI?",
+                    "expected_answer": "Approximately 12 years old.",
+                    "reply": "In the dream world of *OMORI*, KEL is portrayed as a child, around 12 years old. This reflects the time period of SUNNY's memories and imagination, where he envisions his friends as they were during their childhood.",
+                    "correct": null
+                },
+                {
+                    "question": "How old is HERO in the dream world of the game OMORI?",
+                    "expected_answer": "Approximately 15 years old.",
+                    "reply": "In the dream world of *OMORI*, HERO is depicted as being 15 years old. This reflects his younger self as seen in SUNNY's dreams, where the characters are based on their childhood versions. In the real world, HERO is 19 years old.",
+                    "correct": null
+                },
+                {
+                    "question": "How old is AUBREY in the dream world of the game OMORI?",
+                    "expected_answer": "Approximately 12 years old.",
+                    "reply": "In the dream world of *OMORI*, AUBREY, along with the rest of the main characters, is portrayed as a child, around 12 years old. This reflects the time in their lives when they were all still close friends, before the events that caused them to drift apart in the real world.",
+                    "correct": null
+                },
+                {
+                    "question": "How old is BASIL in the dream world of the game OMORI?",
+                    "expected_answer": "Approximately 12 years old.",
+                    "reply": "In the dream world of *OMORI*, BASIL, like the other main characters, appears as a child. While the game doesn't explicitly state the characters' exact ages in the dream world, they are generally portrayed as being around 12 years old, reflecting their younger selves from the past. This contrasts with their older appearances in the real world, where they are teenagers.",
+                    "correct": null
+                },
+                {
+                    "question": "How old is MARI in the dream world of the game OMORI?",
+                    "expected_answer": "Approximately 15 years old.",
+                    "reply": "In the dream world of *OMORI*, MARI appears as she did before her death in the real world, which is as a teenager. While her exact age isn't explicitly stated in the dream world, it is implied that she is around 15-16 years old, as she was Sunny's older sister and was in high school before the events of the game. Her appearance in the dream world reflects how Sunny remembers her from when she was alive.",
+                    "correct": null
+                },
+                {
+                    "question": "How old is SUNNY in the real world of the game OMORI during the gameplay?",
+                    "expected_answer": "Approximately 16 years old.",
+                    "reply": "In the real world of the game **OMORI**, SUNNY is **16 years old** during the events of the gameplay. The story takes place four years after the tragic incident involving his sister, MARI, which occurred when SUNNY was 12 years old. The game focuses on SUNNY's final days before he is set to move away from his hometown.",
+                    "correct": null
+                },
+                {
+                    "question": "How old is KEL in the real world of the game OMORI?",
+                    "expected_answer": "Approximately 16 years old.",
+                    "reply": "In the real world of *OMORI*, KEL is 16 years old. This is consistent with the ages of the main characters in the real world, as they are all teenagers.",
+                    "correct": null
+                },
+                {
+                    "question": "How old is HERO in the real world of the game OMORI?",
+                    "expected_answer": "Approximately 19 years old.",
+                    "reply": "In the real world of *OMORI*, HERO is 19 years old. He is the eldest of the main group of friends and serves as a caring, responsible figure, often acting as a role model for the others.",
+                    "correct": null
+                },
+                {
+                    "question": "How old is AUBREY in the real world of the game OMORI?",
+                    "expected_answer": "Approximately 16 years old.",
+                    "reply": "In the real world of *OMORI*, Aubrey is 16 years old. This is consistent with the ages of the main characters, who are all teenagers in the real world.",
+                    "correct": null
+                },
+                {
+                    "question": "How old is BASIL in the real world of the game OMORI?",
+                    "expected_answer": "Approximately 16 years old.",
+                    "reply": "In the game *OMORI*, Basil's exact age is not explicitly stated. However, based on the context of the story and the characters' appearances, it is generally inferred that Basil, along with Sunny and their friends, is around 16 years old in the real world. This is because the main events of the game take place four years after a significant event in their childhood, and they were likely around 12 years old at that time.",
+                    "correct": null
+                },
+                {
+                    "question": "How would you describe OMORI in terms of personality in the game OMORI?",
+                    "expected_answer": "Shy, quiet, stoic, protective, unemotional.",
+                    "reply": "In the game *OMORI*, OMORI is the silent, stoic, and mysterious alter ego of the main character, SUNNY. OMORI resides in the dream world known as HEADSPACE, where he serves as a representation of SUNNY's suppressed emotions and inner struggles. Personality-wise, OMORI is calm, detached, and rarely shows emotion, which contrasts with the more expressive and lively characters around him. He often takes on a leadership role within the group, guiding his friends through various challenges in HEADSPACE.\n\nOMORI's personality reflects SUNNY's desire to avoid confronting his trauma and emotions, as OMORI is a manifestation of escapism and repression. Despite his quiet demeanor, OMORI's actions and presence carry significant weight in the story, symbolizing the darker aspects of SUNNY's psyche.",
+                    "correct": null
+                },
+                {
+                    "question": "How would you describe SUNNY in terms of personality in the game OMORI?",
+                    "expected_answer": "Quiet, guilt-ridden, introspective, empathetic, and emotionally repressed.",
+                    "reply": "SUNNY, the main character in *OMORI*, is a deeply introverted and reserved individual. Throughout the game, his personality is portrayed as quiet, shy, and withdrawn, especially in the real world. He struggles with intense guilt, grief, and trauma stemming from a tragic event in his past, which has caused him to isolate himself from others for several years. SUNNY rarely speaks, leaving much of his personality to be interpreted through his actions, expressions, and the way others interact with him.\n\nIn the dream world of *OMORI*, his alter ego, OMORI, reflects a more stoic and emotionless version of himself, serving as a coping mechanism to suppress his painful memories. SUNNY's personality is shaped by his internal conflict, as he grapples with his fears and the need to confront the truth about his past. Despite his quiet demeanor, SUNNY demonstrates a deep emotional capacity and a longing for connection, as seen in his relationships with his friends and his journey toward healing.",
+                    "correct": null
+                },
+                {
+                    "question": "How would you describe KEL in terms of personality in the game OMORI?",
+                    "expected_answer": "Loud, positive, energetic, maybe simple-minded, but concerned for his friends.",
+                    "reply": "KEL is one of the main characters in *OMORI*, and his personality is vibrant, energetic, and optimistic. He often serves as the comic relief in the group, bringing a lighthearted and carefree attitude to balance out the more serious or somber moments. KEL is highly extroverted, playful, and sometimes impulsive, which can lead to him being a bit reckless or thoughtless at times. However, he is also deeply loyal, caring, and supportive of his friends, always trying to lift their spirits and keep the group together. His boundless energy and determination make him a key figure in the story, as he often encourages others to face challenges head-on. Despite his occasional immaturity, KEL's big heart and unwavering positivity make him a beloved character in the game.",
+                    "correct": null
+                },
+                {
+                    "question": "How would you describe HERO in terms of personality in the game OMORI?",
+                    "expected_answer": "Charming, warm, kind-hearted.",
+                    "reply": "HERO is depicted as a kind, responsible, and caring individual in *OMORI*. He often takes on the role of the \"big brother\" figure within the group of friends, offering guidance and support to everyone around him. HERO is mature and level-headed, often acting as the peacemaker during conflicts and ensuring that everyone feels included and valued. His charisma and charm make him well-liked by others, and he is shown to be a natural leader. Despite his calm and composed demeanor, HERO also has moments of vulnerability, particularly when dealing with the loss of his younger brother, MARI, which adds depth to his character. Overall, HERO is a compassionate and dependable friend who strives to bring out the best in those around him.",
+                    "correct": null
+                },
+                {
+                    "question": "How would you describe AUBREY in terms of personality in the real world of the game OMORI?",
+                    "expected_answer": "Short tempered, aggressive, cold, hostile. Despite this, she still can show empathy and forgiveness.",
+                    "reply": "In the real world of *OMORI*, Aubrey is portrayed as a complex and multifaceted character. She is initially seen as tough, confrontational, and even antagonistic, especially towards Sunny and Kel. This behavior stems from feelings of abandonment, loneliness, and unresolved grief following the death of Mari and the subsequent fracturing of their friend group. Aubrey feels betrayed by her friends, believing they left her behind during a time when she needed them most.\n\nBeneath her tough exterior, however, Aubrey is deeply sensitive and vulnerable. Her actions, such as lashing out and forming a new group of friends, are a defense mechanism to cope with her pain and feelings of isolation. She struggles with her emotions and has difficulty expressing her true feelings, which leads to misunderstandings and conflict with others.\n\nAs the story progresses, it becomes clear that Aubrey still cares deeply about her old friends and is hurting from the loss of their bond. Her character arc highlights themes of forgiveness, reconciliation, and the importance of addressing emotional wounds to heal and move forward.",
+                    "correct": null
+                },
+                {
+                    "question": "Which location in the game OMORI in HEADSPACE has lots of trees, a train station, a playground, and Basil\u2019s house?",
+                    "expected_answer": "Vast Forest",
+                    "reply": "In the game **OMORI**, the location in **HEADSPACE** that features lots of trees, a train station, a playground, and Basil's house is **Vast Forest**. This area serves as a central hub early in the game, connecting various locations. The **Playground** is where Omori and his friends often gather, and Basil's house is located to the south of the forest. The **Train Station** can be found to the west of the Vast Forest.",
+                    "correct": null
+                },
+                {
+                    "question": "Which location in the game OMORI in HEADSPACE has aliens, a camping site, and Captain Spaceboy\u2019s spaceship?",
+                    "expected_answer": "Otherworld",
+                    "reply": "The location you're referring to in **OMORI** is **Otherworld**. It is a whimsical area in **Headspace** that features aliens, a campsite, and Captain Spaceboy's spaceship. Otherworld is a vibrant, space-themed area filled with quirky characters and unique sights, making it a memorable part of the game.",
+                    "correct": null
+                },
+                {
+                    "question": "Which location in the game OMORI in HEADSPACE has brown sugar for land, lots of tourists, and the whole area is just full of sweets?",
+                    "expected_answer": "Orange Oasis",
+                    "reply": "In the game **OMORI**, the location in **HEADSPACE** you're describing is **Sweetheart's Castle** and its surrounding area, **Sweetheart's Sweetheart's Empire**, which includes **Sprout Mole Village** and the **Sweetheart's Dungeon**. However, the specific area you're referring to with \"brown sugar for land, lots of tourists, and full of sweets\" sounds more like **Orange Oasis**. Orange Oasis is a whimsical desert-like area filled with sugary treats, desserts, and quirky characters. It\u2019s a side area in HEADSPACE that players can explore, and it fits your description well!",
+                    "correct": null
+                },
+                {
+                    "question": "Which location in the game OMORI in HEADSPACE has spider-like enemies and SWEETHEART\u2019s CASTLE?",
+                    "expected_answer": "Pyrefly Forest",
+                    "reply": "In the game **OMORI**, the location in **HEADSPACE** that features spider-like enemies is **Pyrefly Forest**, which is a dark and eerie area filled with webs and creepy crawlies. This area leads to **SWEETHEART's CASTLE**, a grand and extravagant location where SWEETHEART resides. Both areas are significant parts of the game and are connected as part of the story progression.",
+                    "correct": null
+                },
+                {
+                    "question": "Which location in the game OMORI in HEADSPACE is located underwater and contains LAST RESORT?",
+                    "expected_answer": "Deep Well/Underwater highway.",
+                    "reply": "In the game **OMORI**, the location in **HEADSPACE** that is underwater and contains **LAST RESORT** is **DEEP WELL**. DEEP WELL is an underwater area that players explore, and it leads to the LAST RESORT, a casino and hotel run by SHARK PLANE.",
+                    "correct": null
+                },
+                {
+                    "question": "Where is the boss HUMPHREY located in the game OMORI?",
+                    "expected_answer": "He\u2019s located in DEEPER WELL.",
+                    "reply": "In the game **OMORI**, the boss **HUMPHREY** is located in **Humphrey**, the large whale-like character who serves as both a location and a character. Humphrey can be found in the **Deep Well** area, which is accessible after completing the Last Resort section. To reach him, you need to take the toll bridge in Deep Well and ride a boat to enter his mouth. Inside Humphrey, you'll explore various areas and eventually face him as a boss near the end of the section.",
+                    "correct": null
+                },
+                {
+                    "question": "How do you go from WHITE SPACE to NEIGHBOR\u2019S ROOM in the game OMORI?",
+                    "expected_answer": "You need to go through a white door. (If you can\u2019t - try interacting with objects in WHITE SPACE. It should trigger an event which will spawn an item that you should pick up. It will be a knife in the PROLOGUE and a HEADSPACE MAP on THREE DAYS LEFT.)",
+                    "reply": "In the game *OMORI*, you can travel from WHITE SPACE to the NEIGHBOR'S ROOM by interacting with the light bulb and then using the door in WHITE SPACE. Here's a step-by-step guide:\n\n1. **Interact with the Light Bulb (Optional):** In WHITE SPACE, you can examine the light bulb hanging from the ceiling if you want to learn more about the environment. This is optional and not required to progress.\n\n2. **Pick Up Your Sketchbook and Laptop (Optional):** You can also interact with OMORI's sketchbook and laptop to explore more about the world of WHITE SPACE. Again, this is optional.\n\n3. **Find the Door:** Look for the white door in WHITE SPACE. It will have the words \"A white door casts a faint shadow. What would you like to do?\" when you interact with it.\n\n4. **Open the Door:** Select the option to open the door. This will transport you from WHITE SPACE to the NEIGHBOR'S ROOM, where you\u2019ll meet your friends Kel, Aubrey, and Hero.\n\nThis is one of the first transitions in the game and introduces you to the dream world where much of the story takes place. Let me know if you have more questions!",
+                    "correct": null
+                }
+            ]
+        },
+        {
+            "section_name": "HARD",
+            "questions": [
+                {
+                    "question": "What color is associated with OMORI in the game OMORI?",
+                    "expected_answer": "White/Black",
+                    "reply": "In the game *OMORI*, the character OMORI is primarily associated with the color **black** and white. His design is monochromatic, reflecting the game's themes of duality, emptiness, and introspection. The black-and-white aesthetic is a key part of OMORI's identity and the dream world he inhabits.",
+                    "correct": null
+                },
+                {
+                    "question": "What color is associated with KEL in the game OMORI?",
+                    "expected_answer": "Orange/Yellow",
+                    "reply": "In the game **OMORI**, the color associated with **KEL** is **orange**. This is reflected in his character design, such as his clothing and text box color, which helps distinguish him from the other characters.",
+                    "correct": null
+                },
+                {
+                    "question": "What color is associated with HERO in the game OMORI?",
+                    "expected_answer": "Blue",
+                    "reply": "In the game **OMORI**, HERO is associated with the color **blue**. This is reflected in his character design, such as his clothing and the color of his text box during dialogue. Blue also symbolizes his calm, kind, and supportive personality.",
+                    "correct": null
+                },
+                {
+                    "question": "What color is associated with AUBREY in the game OMORI?",
+                    "expected_answer": "Pink/Red",
+                    "reply": "In the game **OMORI**, the color associated with **AUBREY** is **pink**. This is reflected in her character design, such as her hair and clothing, as well as in various visual elements tied to her throughout the game.",
+                    "correct": null
+                },
+                {
+                    "question": "What color is associated with BASIL in the game OMORI?",
+                    "expected_answer": "Green/Light blue",
+                    "reply": "In the game **OMORI**, the color most commonly associated with **BASIL** is **green**. This is due to his connection with nature, plants, and flowers, as well as his gentle and nurturing personality. His hair is also a light greenish-blonde, further reinforcing this association.",
+                    "correct": null
+                },
+                {
+                    "question": "What color is associated with MARI in the game OMORI?",
+                    "expected_answer": "Purple/Pink",
+                    "reply": "In the game *OMORI*, MARI is primarily associated with the color **white**. This is reflected in her appearance, such as her white dress, and her connection to themes of purity and memory. Additionally, her presence in the game often evokes a sense of calm and nostalgia, which aligns with this color association.",
+                    "correct": null
+                },
+                {
+                    "question": "What color did AUBREY and MARI want to paint their hair in the game OMORI?",
+                    "expected_answer": "AUBREY - pink, MARI - purple.",
+                    "reply": "In the game *OMORI*, there isn't any mention of AUBREY or MARI wanting to paint their hair a specific color. However, AUBREY is notable for her pink hair in the Dream World, which reflects her vibrant and bold personality. If you're referring to a specific scene or dialogue, feel free to clarify!",
+                    "correct": null
+                },
+                {
+                    "question": "How many keys do you need to access BLACK SPACE in OMORI?",
+                    "expected_answer": "You need 12 keys (W, O, M, T, B, L, A, C, K, S, P, E)",
+                    "reply": "In **OMORI**, you need to collect **12 specific keys** from the Hangman Key collection to access **BLACK SPACE**. These keys are part of the Hangman puzzle, and only the correct ones contribute to completing the phrase: **\"WELCOME TO BLACK SPACE.\"**\n\nWhile there are more keys scattered throughout the game, only the ones that fit the phrase are necessary to unlock BLACK SPACE. Collecting incorrect keys will simply add to the Hangman gallows, but they are not required to progress.",
+                    "correct": null
+                },
+                {
+                    "question": "How many rooms in BLACK SPACE do you HAVE TO go through before a black door with red glow appears in the game OMORI.",
+                    "expected_answer": "8 rooms. The other 10 rooms are optional.",
+                    "reply": "In *OMORI*, when you enter BLACK SPACE, you need to go through **at least 12 rooms** before the black door with the red glow appears. This door leads to the final area of BLACK SPACE and progresses the story. The rooms you visit in BLACK SPACE are semi-randomized, but once you've explored enough, the red-glowing door will appear, signaling the next step in the narrative.",
+                    "correct": null
+                },
+                {
+                    "question": "What happens every time when SOMETHING almost catches OMORI?",
+                    "expected_answer": "When SOMETHING nearly catches OMORI, he will be abruptly teleported to safety in WHITE SPACE. There will be no door to NEIGHBOR\u2019S ROOM. The player will be able to hear the sound of a heartbeat. The only way out to progress is to stab OMORI.",
+                    "reply": "In the game *OMORI*, whenever SOMETHING almost catches OMORI, it typically represents moments of intense fear, trauma, or guilt surfacing in the story. SOMETHING is a manifestation of OMORI's (and Sunny's) repressed emotions and memories tied to a traumatic event in the past. When SOMETHING appears, it often triggers unsettling encounters or sequences that force the player to confront these emotions.\n\nFor example, SOMETHING might appear during scripted events or battles, causing OMORI to experience fear or panic. These moments are symbolic of Sunny's struggle to suppress his guilt and the truth about what happened in the past. The encounters with SOMETHING often leave a lingering sense of dread and push the narrative forward, urging the player to uncover the deeper meaning behind these manifestations.\n\nIf you're referring to a specific moment in the game, feel free to clarify!",
+                    "correct": null
+                },
+                {
+                    "question": "What is a special number that appears throughout the game OMORI?",
+                    "expected_answer": "The number is 143. It means \u201cI love you.\u201d 1 - I, 4 - love, 3 - you.",
+                    "reply": "A special number that appears throughout the game *OMORI* is **\"3\"**. This number is significant because it is tied to various puzzles, themes, and symbolism in the game. For example, the number 3 is often associated with the three days leading up to Sunny's move, as well as the recurring trio of friends (Kel, Aubrey, and Hero) in both the dream world and the real world. Additionally, the number 3 can be found in certain puzzles and sequences, emphasizing its subtle importance throughout the game.",
+                    "correct": null
+                },
+                {
+                    "question": "How many rooms are there in BLACK SPACE in the game OMORI?",
+                    "expected_answer": "There are a total of 18 rooms.",
+                    "reply": "In the game **OMORI**, **BLACK SPACE** consists of 12 distinct rooms that players can explore. Each room represents a surreal and unsettling environment tied to the game's themes of trauma and repressed memories. These rooms are accessed through doors in the central hub of BLACK SPACE, and each one offers unique experiences and insights into the story.\n\nLet me know if you'd like more details about any specific room or aspect of BLACK SPACE!",
+                    "correct": null
+                },
+                {
+                    "question": "How do you get the key in one of the rooms in BLACK SPACE where you can cut open MEWO?",
+                    "expected_answer": "You have to talk to the butler on the right side of the room. Cutting the cat is optional and not required. The only way out of the room is by stabbing OMORI.",
+                    "reply": "In OMORI, the room in BLACK SPACE where you can cut open MEWO is one of the more unsettling and symbolic moments in the game. To get the key in this room, you need to interact with MEWO, the cat, and use your knife to \"cut\" it open. This action is required to progress and obtain the BLACK SPACE key in that specific room.\n\nHowever, please note that this scene is intentionally disturbing and reflects the darker themes of the game. OMORI is designed to explore heavy emotional and psychological topics, so proceed with caution and take breaks if needed. If you have further questions or need help with other parts of the game, feel free to ask!",
+                    "correct": null
+                },
+                {
+                    "question": "How does BASIL\u2019s room in the real world look like in the game OMORI?",
+                    "expected_answer": "BASIL\u2019s room is themed with a color green. There\u2019s a green bed on the left, a bedside table with a polaroid camera on top, a bookshelf filled with books about gardening, and many potted plants.",
+                    "reply": "In the game *OMORI*, BASIL's room in the real world is depicted as a small, cozy, and somewhat cluttered space. It reflects his personality and interests, particularly his love for plants and photography. The room is filled with potted plants, giving it a lush and green atmosphere. There are also various personal items scattered around, such as books and his camera equipment, which highlight his hobbies and gentle nature.\n\nHowever, the state of his room can also reflect the emotional weight and struggles he is dealing with in the real world. Depending on the progression of the story, the room may feel more somber or unsettling, hinting at the deeper themes of guilt, trauma, and isolation that BASIL experiences throughout the game.",
+                    "correct": null
+                },
+                {
+                    "question": "Who scribbled out the photos in BASIL's photo album in the game OMORI?",
+                    "expected_answer": "SUNNY.",
+                    "reply": "In the game *OMORI*, it is revealed that **SUNNY**, the main character, is the one who scribbled out the photos in BASIL's photo album. This act was part of SUNNY's attempt to suppress the traumatic memories surrounding the events of MARI's death. The scribbled-out photos represent SUNNY's repression of the truth and his struggle to cope with the guilt and pain associated with the incident.",
+                    "correct": null
+                },
+                {
+                    "question": "What does OMORI say during the final confrontation with SUNNY in the game OMORI?",
+                    "expected_answer": "\u201cYou killed MARI. She loved you and you killed her.\u201d \u201cYou loved her and you killed her.\u201d \u201cYou've caused so much suffering\u2026 yet you do nothing.\u201d \u201cYou're useless... less than useless. You\u2019re sick.\u201d \u201cYou should just die.\u201d (There are many quotes. All of them mention SUNNY\u2019s worthlessness.)",
+                    "reply": "In the final confrontation between OMORI and SUNNY in the game *OMORI*, OMORI does not speak at all. The character OMORI is a silent representation of SUNNY's suppressed emotions, guilt, and trauma. Instead of dialogue, the confrontation is conveyed through gameplay, music, and visual storytelling. The battle is symbolic, representing SUNNY's internal struggle to confront the truth about his past and come to terms with his guilt. The lack of dialogue from OMORI emphasizes the emotional weight and introspective nature of this climactic moment.",
+                    "correct": null
+                },
+                {
+                    "question": "What does KEL talk about in the CEMETERY during THREE DAYS LEFT in the game OMORI? After the fight with AUBREY at church.",
+                    "expected_answer": "KEL describes how HERO fell into a long depression after MARI\u2019s death, and when KEL finally tried to make HERO feel better, his older brother lashed out.",
+                    "reply": "In *OMORI*, during the \"Three Days Left\" segment in the real world, after the confrontation with Aubrey at the church, KEL and SUNNY visit the cemetery. Here, KEL talks about his memories of visiting the cemetery with their friend group in the past. He reflects on how things have changed over time and expresses sadness about how everyone has grown apart. Specifically, he mentions Mari's grave, as the group used to visit it together after her passing. KEL's dialogue highlights his longing for the way things used to be and his hope to reconnect with everyone, despite the current tensions. This moment is a poignant reminder of the group's shared grief and the emotional distance that has developed between them.",
+                    "correct": null
+                },
+                {
+                    "question": "What do keys that open access to BLACK SPACE in OMORI look like?",
+                    "expected_answer": "The keys to BLACK SPACE look like keyboard keys. Then they take the form of normal keys.",
+                    "reply": "In *OMORI*, the keys that grant access to **BLACK SPACE** are part of the **HANGMAN game**. These keys are scattered throughout the game world and are represented as black letter tiles with white text. Each key corresponds to a letter in the word puzzle for the HANGMAN game, which is displayed in the menu. Collecting the correct keys is necessary to complete the word and unlock access to BLACK SPACE.\n\nHowever, not all keys are required to progress the story\u2014some are optional and lead to extra dialogue or lore. The correct keys are marked with a red circle on the HANGMAN interface, while incorrect keys are not necessary for solving the puzzle. Be cautious, as collecting too many incorrect keys can lead to unsettling consequences in the game.",
+                    "correct": null
+                },
+                {
+                    "question": "What happens when SUNNY tries to save BASIL on ONE DAY LEFT in the game OMORI?",
+                    "expected_answer": "When SUNNY tries to save BASIL from himself, they both start fighting out of panic and shared hallucinations. In the end, BASIL stabs SUNNY\u2019s right eye and they both pass out. Later, they\u2019re rushed to the hospital.",
+                    "reply": "In the game *OMORI*, if SUNNY chooses to save BASIL on **ONE DAY LEFT**, the final day in the real world, it leads to one of the game's key endings. This occurs during the sequence where SUNNY enters BASIL's house and finds him in distress. If SUNNY decides to confront the situation and save BASIL, the game transitions into a climactic and emotional sequence.\n\nThis choice triggers the **\"Good Ending\" path**, where SUNNY faces his inner guilt and trauma. SUNNY and BASIL end up in a fight, which represents their shared emotional turmoil and the weight of the secret they've been carrying. After the fight, SUNNY is transported to the final area of the game, **BLACK SPACE 2**, where he confronts his deepest fears and the truth about what happened to MARI.\n\nUltimately, SUNNY has the opportunity to overcome his guilt by facing the truth and reconciling with his past. If the player chooses to confront the truth, SUNNY wakes up in the hospital and decides to tell his friends the truth about MARI's death, symbolizing his acceptance and willingness to move forward.\n\nThis choice is pivotal in determining the resolution of SUNNY's story and whether he can find peace with himself and his relationships.",
+                    "correct": null
+                }
+            ]
+        },
+        {
+            "section_name": "VERY HARD",
+            "questions": [
+                {
+                    "question": "Why in the game OMORI can you pet BASIL\u2019s head with his photo album when he gives it back to you?",
+                    "expected_answer": "You can\u2019t do that in the game.",
+                    "reply": "Actually, in the game *OMORI*, there is no mechanic or scene where you can pet Basil's head with his photo album. While the photo album is a significant item in the story, symbolizing Basil's memories and his connection to the group, there is no interaction like the one you described. It might be a misunderstanding or a mix-up with fan-created content or interpretations. Let me know if you have any other questions about the game!",
+                    "correct": null
+                },
+                {
+                    "question": "What is the difference between the OMORI route and HIKIKOMORI route in the game OMORI?",
+                    "expected_answer": "The name \"OMORI route\" and \"HIKIKOMORI route\" refer to the same route in the game OMORI, when you don\u2019t open the door to KEL on THREE DAYS LEFT.",
+                    "reply": "In the game *OMORI*, the **OMORI route** and the **HIKIKOMORI route** are two distinct narrative paths that players can take, each offering a different perspective on the story and its characters. Here's a breakdown of the differences:\n\n### **OMORI Route (Sunny Route)**\n- This is considered the \"main\" or \"default\" route of the game.\n- In this route, Sunny (the real-world counterpart of Omori) chooses to reconnect with his friends in the real world (Kel, Aubrey, and Hero) during the last few days before he moves away.\n- The story alternates between the real world and the dream world (Headspace), with Sunny gradually confronting his past and the trauma surrounding the death of his sister, Mari.\n- The route focuses on themes of friendship, forgiveness, and healing as Sunny works to repair his relationships and face the truth about what happened to Mari.\n- The climax of this route involves Sunny confronting his inner guilt and fear, leading to a resolution that depends on the player's choices.\n\n### **HIKIKOMORI Route (Isolation Route)**\n- This route occurs if Sunny chooses to stay inside his house and avoid interacting with Kel when he knocks on the door on the first day.\n- By avoiding the real world, Sunny isolates himself and spends all his time in Headspace, the dream world created by his subconscious.\n- The HIKIKOMORI route delves deeper into the surreal and fantastical aspects of Headspace, with new areas, characters, and events that are not present in the OMORI route.\n- This route emphasizes escapism and avoidance, as Sunny refuses to confront his trauma or reconnect with his friends in the real world.\n- The story becomes darker and more unsettling, as Sunny's refusal to face reality leads to a lack of closure and a more ambiguous or tragic ending.\n\n### Key Differences:\n1. **Real World vs. Headspace Focus**:\n   - The OMORI route balances time between the real world and Headspace, while the HIKIKOMORI route focuses almost entirely on Headspace.\n   \n2. **Themes**:\n   - The OMORI route explores themes of healing, reconciliation, and facing the truth.\n   - The HIKIKOMORI route focuses on escapism, isolation, and the consequences of avoiding reality.\n\n3. **Content**:\n   - The HIKIKOMORI route includes unique areas, side quests, and events in Headspace that are not accessible in the OMORI route.\n   - The OMORI route includes real-world interactions and character development that are absent in the HIKIKOMORI route.\n\n4. **Endings**:\n   - The OMORI route leads to endings that revolve around Sunny's confrontation with his trauma and his relationships with his friends.\n   - The HIKIKOMORI route leads to endings that reflect Sunny's continued isolation and avoidance of his past.\n\nBoth routes offer unique insights into the game's story and characters, making them worth exploring for a full understanding of *OMORI*.",
+                    "correct": null
+                },
+                {
+                    "question": "What is the purpose of the SILVER SHORE in OMORI?",
+                    "expected_answer": "There is no location called SILVER SHORE in the game.",
+                    "reply": "It seems like there might be some confusion here, as there is no location called \"SILVER SHORE\" in *OMORI*. The game features a variety of unique and surreal locations, such as HEADSPACE, FARAWAY TOWN, and areas like SWEETHEART'S CASTLE, ORANGE OASIS, and DEEP WELL, but \"SILVER SHORE\" is not one of them.\n\nIf you meant a different location or concept in the game, feel free to clarify, and I\u2019d be happy to help!",
+                    "correct": null
+                },
+                {
+                    "question": "Why does KEL give AUBREY a bouquet of flowers in OMORI?",
+                    "expected_answer": "KEL never gives AUBREY flowers; their relationship doesn't include this.",
+                    "reply": "KEL does not give AUBREY a bouquet of flowers in *OMORI*. This event does not occur in the game. It\u2019s possible you may be misremembering or confusing it with another moment or game. In *OMORI*, KEL and AUBREY have a complex relationship, particularly in the real world, where they have grown apart due to past events. However, there is no specific scene where KEL gives AUBREY flowers. If you have more questions or need clarification about the game, feel free to ask!",
+                    "correct": null
+                },
+                {
+                    "question": "What is the effect of the LUCKY CHARM item in OMORI?",
+                    "expected_answer": "There is no LUCKY CHARM item in the game.",
+                    "reply": "In **OMORI**, the **LUCKY CHARM** is an equippable charm that increases the wearer's **LUCK** stat by 5. LUCK affects the chance of landing a \"lucky\" critical hit during battles, making it a useful item for characters focused on dealing critical damage. You can equip it to any party member to boost their LUCK and improve their chances of landing stronger attacks.",
+                    "correct": null
+                },
+                {
+                    "question": "How do you solve the puzzle in the CRYSTAL CAVE in OMORI?",
+                    "expected_answer": "There is no CRYSTAL CAVE in the game.",
+                    "reply": "In OMORI, the CRYSTAL CAVE puzzle involves interacting with colored crystals to open a door. Here's how to solve it:\n\n1. **Locate the Colored Crystals**: Inside the CRYSTAL CAVE, you'll find several crystals of different colors scattered throughout the area.\n\n2. **Observe the Hint**: Near the locked door, there is a clue that tells you the correct order in which to interact with the crystals. Pay attention to the colors and the sequence.\n\n3. **Interact with the Crystals**: Go to each crystal in the correct order based on the hint. Interact with them by pressing the action button (default is \"Z\" or \"Enter\" on PC, or the confirm button on consoles).\n\n4. **Return to the Door**: Once you've activated the crystals in the correct order, the door will unlock, allowing you to proceed.\n\nIf you're stuck, double-check the hint near the door and ensure you're interacting with the crystals in the exact sequence. Let me know if you need more specific guidance!",
+                    "correct": null
+                },
+                {
+                    "question": "What boss is encountered in the NEON NIGHTMARE area of OMORI?",
+                    "expected_answer": "There is no NEON NIGHTMARE area in the game.",
+                    "reply": "It seems like there might be some confusion in your question. There isn't an area called \"NEON NIGHTMARE\" in *OMORI*. If you're referring to a specific part of the game, it might be under a different name or a fan-made concept. Could you clarify or provide more details? I'd be happy to help with any questions about the game!",
+                    "correct": null
+                },
+                {
+                    "question": "Why does BASIL react when you find his hidden diary in OMORI?",
+                    "expected_answer": "BASIL does not have a hidden diary in the game.",
+                    "reply": "In *OMORI*, there is no specific event where you find a \"hidden diary\" belonging to BASIL. However, BASIL's character is deeply tied to themes of guilt, trauma, and secrets, which are central to the game's narrative. If you're referring to moments where BASIL reacts strongly to something hidden or personal being uncovered, it could be related to his fear of the truth being revealed about the events surrounding MARI's death.\n\nIf you meant a specific in-game moment, it might be a misunderstanding or confusion with another part of the story. Feel free to clarify, and I can help explain further!",
+                    "correct": null
+                },
+                {
+                    "question": "What special ability does the ANCIENT RELIC grant in OMORI?",
+                    "expected_answer": "There is no ANCIENT RELIC item in the game.",
+                    "reply": "The **ANCIENT RELIC** is not an item or ability in the game *OMORI*. It seems like there might be some confusion or a mix-up with the name. If you're referring to a specific item, charm, or ability in the game, feel free to provide more details, and I can help clarify!",
+                    "correct": null
+                },
+                {
+                    "question": "What is the truth behind the CURSED DOLL in OMORI?",
+                    "expected_answer": "There is no CURSED DOLL in the game.",
+                    "reply": "The \"Cursed Doll\" is not an actual element or significant plot point in *OMORI*. It seems like you might be referring to something that doesn't exist in the game, or perhaps you're mixing it up with another concept or fan theory. *OMORI* is filled with surreal and unsettling imagery, so it's possible you're thinking of one of the many creepy or mysterious objects found throughout the game, such as the eerie toys or strange items in the dream world.\n\nIf you meant something specific, feel free to clarify, and I can help you explore the lore or themes of the game further!",
+                    "correct": null
+                },
+                {
+                    "question": "Why does HERO reveal a secret to OMORI in the abandoned church?",
+                    "expected_answer": "There is no scene where HERO reveals a secret in an abandoned church.",
+                    "reply": "That doesn't happen in *OMORI*. HERO does not reveal a secret to OMORI in an abandoned church. It seems like there might be some confusion or a mix-up with another game or story. In *OMORI*, the abandoned church is a location in the game, but there isn't a specific event where HERO reveals a secret to OMORI there. If you have more details or want clarification about a specific part of the game, feel free to ask!",
+                    "correct": null
+                },
+                {
+                    "question": "What happens when you use the MYSTICAL FLUTE in OMORI?",
+                    "expected_answer": "There is no MYSTICAL FLUTE item in the game.",
+                    "reply": "It seems like you're asking about the \"MYSTICAL FLUTE\" in *OMORI*, but there is no such item in the game. This might be a misunderstanding or a mix-up with another game or concept. If you have any other questions about *OMORI*, feel free to ask, and I'll do my best to help!",
+                    "correct": null
+                }
+            ]
+        }
+    ]
+}
